@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.css';//Importado caminho do CSS do bootstrap
+import 'assets/css/styles.css';
 import App from './App';
 
 ReactDOM.render(

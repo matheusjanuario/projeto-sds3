@@ -1,4 +1,4 @@
-import { type } from "node:os";
+
 import { SalePage } from "types/sale";
 
 type Props = {

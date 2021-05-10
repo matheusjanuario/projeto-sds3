@@ -1,4 +1,4 @@
-import { type } from "node:os"
+
 import { Seller } from "./seller"
 
 export type Sale = {
